@@ -1,6 +1,6 @@
 Joshua Jonghan Kim
 
-Living in NY Queens.
+Living in Queens, NY
 
 joshuajonghankim@gmail.com
 
