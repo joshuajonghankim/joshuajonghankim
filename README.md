@@ -1,6 +1,7 @@
 ### Joshua Jonghan Kim
 
-### Computer Science in CUNY, Queens College 
+### Computer Science 
+### CUNY, Queens College 
 
 ### Living in Queens, NY
 
