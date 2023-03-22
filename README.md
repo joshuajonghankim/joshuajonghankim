@@ -1,5 +1,7 @@
 Joshua Jonghan Kim
 
+Computer Science in CUNY, Queens College 
+
 Living in Queens, NY
 
 joshuajonghankim@gmail.com
