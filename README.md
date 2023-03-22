@@ -1,10 +1,10 @@
-###Joshua Jonghan Kim
+### Joshua Jonghan Kim
 
-###Computer Science in CUNY, Queens College 
+### Computer Science in CUNY, Queens College 
 
-###Living in Queens, NY
+### Living in Queens, NY
 
-###joshuajonghankim@gmail.com
+### joshuajonghankim@gmail.com
 
 <!---
 joshuajonghankim/joshuajonghankim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
