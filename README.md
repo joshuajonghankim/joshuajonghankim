@@ -6,3 +6,4 @@
 **joshuajonghankim@gmail.com**
 ###### Phone
 **347 909 0683**
+(Text or Email please.)
