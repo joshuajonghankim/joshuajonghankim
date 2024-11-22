@@ -1,7 +1,7 @@
 # Joshua Jonghan Kim
 
 ### Education  
-**Bachelor of Arts in Computer Science**  
+**Computer Science BA**  
 Queens College, City University of New York  
 
 ### Contact  
