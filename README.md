@@ -7,4 +7,4 @@
 ###### Phone
 **347 909 0683**
 
-(Text or Email please.)
+(Text or Email plz)
