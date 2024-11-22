@@ -1,10 +1,10 @@
 # Joshua Jonghan Kim
 
-###### Degree
-**Computer Science BA (Queens College, City University of New York)**
-###### Email
-**joshuajonghankim@gmail.com**
-###### Phone
-**347 909 0683**
+### Education  
+**Bachelor of Arts in Computer Science**  
+Queens College, City University of New York  
 
-(Text or Email plz)
+### Contact  
+- **Email**: [joshuajonghankim@gmail.com](mailto:joshuajonghankim@gmail.com)  
+- **Phone**: [347-909-0683](tel:3479090683)  
+  *(Text or Email preferred)*  
